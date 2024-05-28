@@ -1,0 +1,4 @@
+itching,fatigue,weight_loss,yellowish_skin,dark_urine,abdominal_pain,chills,skin_rash,joint_pain,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain,red_spots_over_body,sweating,diarrhoea,vomiting,high_fever,prognosis
+1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Jaundice
+0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,1,1,1,1,Malaria
+0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,Dengue
